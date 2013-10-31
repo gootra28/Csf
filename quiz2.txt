@@ -1,2 +1,0 @@
-import lab2.n
-print n < 50
