@@ -1,0 +1,11 @@
+Grader name-Travis Wagner
+Evergreen login-wagtra12
+
+3/3. We both got different answers for question 1.
+
+comments on style
+
+The style was similiar to my own but I was unaware of how Travis used the pow(b,2) on line 23 and 26.
+The comments helped with explaining the variables.
+Wrote out the long way to question 2, but still resulting in the correct answer. 
+Not too much white space, but still easy to follow with no confusion.
