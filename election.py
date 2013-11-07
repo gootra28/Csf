@@ -35,9 +35,7 @@ def state_edges(election_result_rows):
     The input list does has no duplicate states;
     that is, each state is represented at most once in the input list.
     """
-    #TODO: Implement this function
-    pass
-
+  
 
 ################################################################################
 # Problem 2: Find the most recent poll row
@@ -254,7 +252,7 @@ def main():
     
     print "Predicted 2012 Electoral College outcome:"
     print_dict(ec_2012)
-    print    
+    print 
 
 
 # If this file, election.py, is run as a Python script (such as by typing

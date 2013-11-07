@@ -1,7 +1,7 @@
-Name: ...
-UW NetID: ...
-CSE 140
-Homework 3: Election prediction
+Name: Travis Goodroad
+Evergreen Login: Gootra28
+
+Homework 5: Election prediction
 
 
 Collaboration:
