@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Travis Goodroad
+# Evergreen Login: Gootra28
 # Programming as a Way of Life
 # Homework 5: Election prediction
 

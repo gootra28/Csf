@@ -23,7 +23,7 @@ import sys
 
 # You need to specify a file name
 if len(sys.argv) < 2:
-    print data
+    print "You must supply a file name as an argument when running this program."
     sys.exit(2)
 # The file name specified on the command line, as a string.
 filename = sys.argv[1]
@@ -71,3 +71,14 @@ gc_content = float(gc_count) / total_count
 
 # Print the answer
 print 'GC-content:', gc_content
+
+for bp in seq:
+    total_count = total_count + 1
+    
+    if bp == 'A' or bp == 'T':
+        at_count = at_count +1
+        
+        
+at_content = float(at_count) / total_count
+
+print 'AT-content:', at_content
