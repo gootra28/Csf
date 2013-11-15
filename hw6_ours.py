@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name:  Group 16: Hien Do, Travis Goodroad, Amber Hare
+# Evergreen Login: dohie11 , gootra28, hartra06
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 6
