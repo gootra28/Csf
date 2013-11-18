@@ -40,13 +40,23 @@ Good morning!
 
 
 ###
-### Problem 5
+### Problem 5: An Index Within an Index 
 ###
+#code:
+candy = {"sour patch kids":22, "sour gummy worms": 10, "m&ms": 13, "snickers": 1, "laffy taffy": 5}
 
-# DO NOT CHANGE THE FOLLOWING LINE
-print "Problem 5 solution follows:"
+value_list = candy.values()
 
-# ... write your code and comments here (and remove this line)
+for i in range(0, len(value_list)):
+    print value_list[i]
+
+
+#answer:
+10
+5
+13
+1
+22
 
 ###
 ### Problem 6: Using a For Loop With a Dictionary
